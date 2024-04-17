@@ -216,6 +216,8 @@ var submit = function()
 	}
 }
 
+
+
 var clearAll = function()
 {
 	document.getElementById("label").innerText='';
